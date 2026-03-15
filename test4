@@ -1,5 +1,9 @@
 first commit
 jenkins
 conflict2
+<<<<<<< HEAD
 conflict3
+=======
+restore
+>>>>>>> d9a3c32 (conflict4)
 conflict
